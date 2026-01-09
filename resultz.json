@@ -1,0 +1,54 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 3,
+  "numPassedTests": 3,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1767944012205,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Arama Çubuğu componenti eklenmiş",
+          "status": "passed",
+          "title": "Arama Çubuğu componenti eklenmiş",
+          "duration": 24,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Arama Çubuğu ile search yapılabiliyor.",
+          "status": "passed",
+          "title": "Arama Çubuğu ile search yapılabiliyor.",
+          "duration": 9,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Arama Çubuğundaki input alanına bir şeyler yazıp, silince de doğru sonuçlar geliyor. ",
+          "status": "passed",
+          "title": "Arama Çubuğundaki input alanına bir şeyler yazıp, silince de doğru sonuçlar geliyor. ",
+          "duration": 11,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1767944206251,
+      "endTime": 1767944206295,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-ncuvxr/src/__tests__/index.test.jsx"
+    }
+  ]
+}
